@@ -1,5 +1,5 @@
 ## android-native
-> Android kernel source analysis 👨‍💻
+> Android kernel source analysis 👨‍💻  
 > Understanding Android Kernel by analyzing the su command procedure
 
 ### su Source
